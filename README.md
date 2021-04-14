@@ -47,7 +47,7 @@ This project require NodeJS v12.
 Clone this project
 
 ```bash
-> git clone https://github.com/ZeusFtrOfc/Zeus_whatsapp-bot.git
+> git clone https://github.com/Michel-176/Zeus_whatsapp-bot.git
 > cd Zeus_whatsapp-bot
 ```
 
